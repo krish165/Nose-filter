@@ -2,7 +2,7 @@
   Nosey=0;
 function preload()
 {
-    nose=loadImage("https://postimg.cc/zyg0Rsbj");
+    nose=loadImage("https://i.postimg.cc/7ZBcjDqp/clownnose.png");
 }
 
 function setup()
